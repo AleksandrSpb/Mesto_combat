@@ -1,0 +1,7 @@
+.header__line {
+    background-image: url("/images/Line.png");
+    background-color: #c7b39b;
+    width: auto;
+    height: 1px;
+    margin-top: 41px;
+}
