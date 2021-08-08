@@ -6,6 +6,8 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__container/page__container.css);
+@import url(../blocks/page/__profile/page__profile.css);
+
 
 
 /*container*/
@@ -17,8 +19,24 @@
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/header/__line/header__line.css);
 
+/*content*/
+@import url(../blocks/content/content.css);
+
+
 
 /*Profile*/
+@import url(../blocks/profile/profile.css);
+@import url(../blocks/profile/__title/profile__title.css);
+@import url(../blocks/profile/__add-button/profile__add-button.css);
+@import url(../blocks/profile/__avatar/profile__avatar.css);
+@import url(../blocks/profile/__description/profile__description.css);
+@import url(../blocks/profile/__edit-button/profile__edit-button.css);
+@import url(../blocks/profile/__name/profile__name.css);
+@import url(../blocks/profile/__edit-button-link/profile__edit-button-link.css);
+@import url(../blocks/profile/__add-button-link/profile__add-button-link.css);
+
+
+
 
 /*Elements*/
 

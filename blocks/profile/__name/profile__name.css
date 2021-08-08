@@ -1,0 +1,13 @@
+.profile__name {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 48px;
+    /*display: inline-block;*/
+    margin-block-start: 0;
+    margin-block-end: 0;
+    /*text-overflow: ellipsis;*/
+    white-space: nowrap; /* Отменяем перенос текста */
+    overflow: hidden; /* Обрезаем содержимое */
+    text-overflow: ellipsis;
+}
