@@ -3,5 +3,8 @@
     width: 24px;
     height: 24px;
     display: inline-block;
-    margin-left: 18px;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+    margin-bottom: 11px;
+
 }

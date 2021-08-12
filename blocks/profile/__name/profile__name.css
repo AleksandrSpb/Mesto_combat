@@ -3,7 +3,8 @@
     font-weight: 500;
     font-size: 42px;
     line-height: 48px;
-    /*display: inline-block;*/
+    display: inline-block;
+    width: 300px;
     margin-block-start: 0;
     margin-block-end: 0;
     /*text-overflow: ellipsis;*/

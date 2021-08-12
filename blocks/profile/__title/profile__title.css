@@ -1,3 +1,5 @@
 .profile__title {
-    min-width: 294px;
+    width: 294px;
+    flex-grow: 3;
+    margin-left: 32px;
 }

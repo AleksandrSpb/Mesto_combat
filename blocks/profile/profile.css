@@ -1,7 +1,8 @@
 .profile {
     display: flex;
     max-width: 880px;
-    justify-content: space-between;
-    /*grid-template-columns: 17% 65% 17%;
-    grid-template-rows: 60px 60px;*/
+    justify-content: start;
+    align-items: center;
+        /*grid-template-columns: 17% 65% 17%;
+        grid-template-rows: 60px 60px;*/
 }
