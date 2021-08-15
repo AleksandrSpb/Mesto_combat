@@ -1,0 +1,16 @@
+.form {
+background-image: url("../../images/Rectangle_form.png");
+    width: 430px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    position: absolute;
+    background-repeat: no-repeat;
+    /*max-width: 430px;*/
+    background-size: cover;
+    background-position: center center;
+    color: inherit;
+
+}

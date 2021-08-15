@@ -4,6 +4,11 @@
     <file url="file://$PROJECT_DIR$/fonts/Inter-Black.ttf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fonts/Inter-Bold.ttf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fonts/Inter-Regular.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fonts/inter-400.woff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fonts/inter-400.woff2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fonts/inter-700.woff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fonts/inter-700.woff2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fonts/inter-900.woff" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fonts/inter-900.woff2" charset="UTF-8" />
   </component>
 </project>

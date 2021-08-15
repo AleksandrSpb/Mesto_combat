@@ -4,6 +4,5 @@
     justify-content: start;
     align-items: center;
     font-family: Inter, Arial, Arvo, serif;
-    /*grid-template-columns: 17% 65% 17%;
-    grid-template-rows: 60px 60px;*/
+    position: relative;
 }

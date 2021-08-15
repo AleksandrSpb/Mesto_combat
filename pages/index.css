@@ -9,6 +9,7 @@
 @import url(../blocks/page/__profile/page__profile.css);
 @import url(../blocks/page/__elements/page__elements.css);
 @import url(../blocks/page/__footer/page__footer.css);
+@import url(../blocks/page/__form/page__form.css);
 
 /*container*/
 @import url(../blocks/container/container.css);
@@ -44,3 +45,10 @@
 /*footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+/*form*/
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/__send/form__send.css);
+@import url(../blocks/form/__text-box/form__text-box.css);
+@import url(../blocks/form/__contact-info/form__contact-info.css);
