@@ -12,3 +12,7 @@ display: block;
     cursor: pointer;
     border: none;
 }
+
+.form__send:hover {
+    opacity: 0.8;
+}

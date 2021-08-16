@@ -52,3 +52,6 @@
 @import url(../blocks/form/__send/form__send.css);
 @import url(../blocks/form/__text-box/form__text-box.css);
 @import url(../blocks/form/__contact-info/form__contact-info.css);
+@import url(../blocks/form/__close/form__close.css);
+@import url(../blocks/form/popup/popup.css);
+@import url(../blocks/form/popup_opened/popup_opened.css);

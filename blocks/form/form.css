@@ -2,7 +2,7 @@
 background-image: url("../../images/Rectangle_form.png");
     width: 430px;
     height: 330px;
-    display: flex;
+    /*display: flex;*/
     flex-direction: column;
     justify-content: start;
     align-items: center;
@@ -11,5 +11,5 @@ background-image: url("../../images/Rectangle_form.png");
     /*max-width: 430px;*/
     background-position: center center;
     color: inherit;
-
+    z-index: 2;
 }
