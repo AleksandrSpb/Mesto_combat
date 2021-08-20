@@ -12,3 +12,14 @@
     overflow: hidden; /* Обрезаем содержимое */
     text-overflow: ellipsis;
 }
+
+@media screen and (max-width: 930px) {
+    .profile__name {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 27px;
+        line-height: 33px;
+        max-width: 186px;
+        margin-left: auto;
+    }
+}

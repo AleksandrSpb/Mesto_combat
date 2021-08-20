@@ -14,3 +14,10 @@
     transition-duration: .2s;
     transition-timing-function: ease-in;
 }
+
+@media screen and (max-width: 930px) {
+    .profile__decorative-element {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -6,3 +6,10 @@
     font-family: Inter, Arial, Arvo, serif;
     position: relative;
 }
+
+@media screen and (max-width: 930px) {
+    .profile {
+        display: block;
+        max-width: 600px;
+    }
+}

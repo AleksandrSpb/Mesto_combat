@@ -12,9 +12,23 @@
     cursor: pointer;
     border: none;
     margin: auto;
-    top: 0; left: 437px; bottom: 365px; right: 0;
+    top: 0;
+    left: 432px;
+    bottom: 365px;
+    right: 0;
 }
 
 .form__close:hover {
     opacity: 0.6;
+}
+
+@media screen and (max-width: 600px) {
+    .form__close {
+        background-image: url("/images/Close-Icon_m.png");
+        width: 20px;
+        height: 20px;
+        object-fit: cover;
+        left: 263px;
+        bottom: 373px;
+    }
 }

@@ -6,3 +6,12 @@
     margin-block-start: 0;
     margin-block-end: 0;
 }
+
+@media screen and (max-width: 930px) {
+    .profile__description {
+        font-size: 14px;
+        line-height: 17px;
+        margin-right: calc((100% - 282px) / 2);
+        margin-left: calc((100% - 282px) / 2);
+    }
+}

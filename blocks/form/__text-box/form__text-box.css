@@ -1,6 +1,6 @@
 .form__text-box {
     display: block;
-    margin-bottom: 43px;
+    margin-bottom: 22px;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -12,4 +12,12 @@
     border-color: rgba(0, 0, 0, 0.2);
     color: #000000;
     width: 358px;
+    padding-bottom: 13px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 600px) {
+    .form__text-box {
+        width: 238px;
+    }
 }

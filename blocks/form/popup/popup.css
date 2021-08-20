@@ -1,6 +1,8 @@
 .popup {
     display: none;
+    font-family: Inter, Arial, Arvo, serif;
 }
+
 .popup::before {
     background-color: black;
     opacity: 0.5;
@@ -11,5 +13,4 @@
     content: '';
     top: 0;
     left: 0;
-
 }
